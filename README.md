@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to My GitHub 👨‍💻  
 
-<!--
-**Kabi777/Kabi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+Hi! I’m **kabi_777**, a **Penetration Tester**, **Bug Hunter**, and **Java Developer**.  
+- 🔍 Passionate about cybersecurity and solving challenges.  
+- 💡 Exploring vulnerabilities in web apps, APIs, and systems.  
+- 🛠 Skilled in Java, networking, and ethical hacking.  
+- 📚 Always learning to stay ahead in the cybersecurity world.  
 
-Here are some ideas to get you started:
+## What I Do  
+- 🐞 Active on **HackerOne** and **Intigriti** for bug hunting.  
+- 💻 Developing secure and efficient code in **Java**.  
+- 🎯 Focused on identifying and reporting security flaws responsibly.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats  
+- 🛡️ Areas of Interest: Cybersecurity, Ethical Hacking, Java Programming.  
+
+
